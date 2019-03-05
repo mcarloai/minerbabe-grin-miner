@@ -56,8 +56,8 @@ AMD 580 8G|2.23
 AMD Vega 64 8G|4.48
 NVIDIA 1050 Ti|?
 NVIDIA 1060 6G|3.08
-NVIDIA 1070 8G|?
-NVIDIA 1080 8G|?
+NVIDIA 1070 8G|4.45
+NVIDIA 1080 8G|5.05
 NVIDIA 1080Ti 11G|7.0
 
 ROCm is a new computing driver from AMD. Unfortunately not all of the mining rigs support ROCm.
